@@ -1,12 +1,9 @@
-**Login Details**
+*-Login Details-*
 
 Email   : admin@gmail.com
 Password: admin123
 
-***********************
-
-
-*---------------------------------------------------------------------*
+*-Instruksi Instalasi-*
 =>Langkah Pertama, unzip  file Attendancems-Laravelnya. Lalu
 =>Buka foldernya, periksa env dan perbarui kredensial database.
 =>Buat database MySQL dengan nama yang sesuai di dalam env. Lalu
@@ -18,4 +15,4 @@ Password: admin123
 =>Dan terakhir, jalankan dengan mengetik: php artisan serve
 =>Ini akan memulai aplikasi dan memberi URL.
 =>Lalu salin URL tersebut dan pastekan pada browser yang anda gunakan
-*---------------------------------------------------------------------*
+*-Instruksi Instalasi-*
