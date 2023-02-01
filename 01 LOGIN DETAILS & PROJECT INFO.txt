@@ -2,3 +2,20 @@
 
 Email   : admin2@gmail.com
 Password: admin123
+
+***********************
+
+
+*---------------------------------------------------------------------*
+=>Langkah Pertama, unzip  file Attendancems-Laravelnya. Lalu
+=>Buka foldernya, periksa env dan perbarui kredensial database.
+=>Buat database MySQL dengan nama yang sesuai di dalam env. Lalu
+=>buka folder Attendancems-Laravelnya di Terminal atau Command Prompt.
+=>dan, Instal dependensi komposer dengan mengetik: composer install
+=>Kemudian instal dependensi lain: npm install  Setelah itu
+=>Migrasikan tabel dengan mengetik:php artisan migrate
+=>Lalu Jalankan seeder: php artisan db:seed
+=>Dan terakhir, jalankan dengan mengetik: php artisan serve
+=>Ini akan memulai aplikasi dan memberi URL.
+=>Lalu salin URL tersebut dan pastekan pada browser yang anda gunakan
+*---------------------------------------------------------------------*
