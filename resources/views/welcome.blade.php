@@ -17,10 +17,10 @@
 
     <div class="content">
         <div class="title m-b-md">
-            <h1 class="text-center">Welcome to Simple Attendance System</h5>
+            <h1 class="text-center">Hello, Welcome to Simple Attendance System</h5>
                 <div class="clockStyle" id="clock"></div>
+                <h1 class="text-center">© {{date('Y')}} <span class="d-none d-sm-inline-block">Crafted By : SMKN 1 CIANJUR</span>.</h5>
+
         </div>
-
-
     </div>
 </div>
