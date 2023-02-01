@@ -1,6 +1,6 @@
 **Login Details**
 
-Email   : admin2@gmail.com
+Email   : admin@gmail.com
 Password: admin123
 
 ***********************
